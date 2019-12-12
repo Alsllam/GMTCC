@@ -1,0 +1,19 @@
+{
+    "name": "gmtcc/search_modal",
+    "description": "GMTCC Search Modal",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "abdulsllam Iskef",
+            "email": "Alsllam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "GMTCC\\Search\\" : "src/"
+}
+}
+}
